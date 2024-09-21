@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  width: 10rem;
+  height: 3rem;
+  border-radius: 1.3rem;
+  padding: 1rem 2rem;
+  margin-top: 3rem;
+  color: white;
+  background-color: rgb(93, 206, 85);
+}
